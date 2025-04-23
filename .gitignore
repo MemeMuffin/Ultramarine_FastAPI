@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+# IDE/editor folders
+.vscode/
+.idea/
+# Database
+ultramarines.db
+# Dummy Data
+dummy_data.txt
