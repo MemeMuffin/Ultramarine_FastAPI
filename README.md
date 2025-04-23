@@ -38,11 +38,11 @@ uvicorn main:app --reload
 🔐 Authentication  
 POST /register  
 Register a new user:  
-{
-"username": "primarch",
-"password": "securepassword",
-"rank": "Captain",
-etc.
+{  
+"username": "primarch",  
+"password": "securepassword",  
+"rank": "Captain",  
+etc.  
 }  
 POST /login  
 Login and receive a JWT token with appropriate scopes.
