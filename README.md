@@ -78,7 +78,7 @@ All routes are protected and use scope-based access control.
 
 - DELETE /ultramarines_chapter/delete/{id} – Delete an Ultramarine (requires delete)
 
-![image](https://github.com/user-attachments/assets/d70925c6-bb3a-454f-a66e-6750063ee79b)
+![alt text](image.png)
 
 ---
 
